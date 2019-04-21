@@ -18,6 +18,4 @@ const arrAnalysis = (arr) => {
   return {avg, minimum, maximum, len};
 };
 
-arrAnalysis([1, 2, 3, 4, 5, 6]);
-
 export {arrAnalysis}
